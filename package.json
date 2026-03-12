@@ -1,12 +1,16 @@
+
 {
   "name": "discord-bot",
   "version": "1.0.0",
-  "description": "Bot Discord hospedado na nuvem",
+  "description": "Bot para Discord",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": ["discord", "bot"],
+  "author": "",
+  "license": "MIT",
   "engines": {
     "node": ">=18.18.0"
   },
