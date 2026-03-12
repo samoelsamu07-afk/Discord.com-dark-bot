@@ -1,17 +1,16 @@
 {
   "name": "discord-bot",
   "version": "1.0.0",
-  "description": "Bot Discord hospedado no Koyeb",
+  "description": "Bot Discord hospedado na nuvem",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
+    "start": "node index.js"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=18.18.0"
   },
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.15.3"
   }
 }
